@@ -1,3 +1,3 @@
 Codewell challenge
 
-Live Url: news-popup.netlify.app
+Live Url: https://news-popup.netlify.app
